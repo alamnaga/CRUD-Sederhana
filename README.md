@@ -2,4 +2,4 @@
 
 Crud Tugas 10 Pijarcamp
 
-![Screenshot CRUD Sederhana](screenshots/crud_sederhana.png)
+![Screenshot CRUD Sederhana](https://github.com/alamnaga/CRUD-Sederhana/blob/main/screenshots/crud_sederhana.png)
